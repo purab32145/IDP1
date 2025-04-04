@@ -32,7 +32,7 @@
 # )
 # logger = logging.getLogger("frontend")
 
-# OPENAI_API_KEY = "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"
+# OPENAI_API_KEY = ""
 # openai.api_key = OPENAI_API_KEY
 # def get_fitz_module():
 #     """Get the fitz module (PyMuPDF) with proper error handling."""
