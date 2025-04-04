@@ -43,7 +43,7 @@ if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
     logger.info("Configured Windows unicode support")
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "'
 
 def get_fitz_module():
     """Get the fitz module (PyMuPDF) with proper error handling."""
